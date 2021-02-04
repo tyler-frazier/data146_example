@@ -1,5 +1,11 @@
-# data146_example
+# My DATA / COLL 150 Index of Semester Work
 
 ## Informal Responses
 
-1. [Blumenstock Response 2/2](https://tyler-frazier.github.io/data146_example/blumenstock.html)
+- [Blumenstock Response 2/2](https://tyler-frazier.github.io/data146_example/blumenstock.html)
+
+## Formal Exercises
+
+- [Annotated Bibliography](...) 
+
+
