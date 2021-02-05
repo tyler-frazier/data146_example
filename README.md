@@ -6,6 +6,6 @@
 
 ## Formal Exercises
 
-- [Annotated Bibliography](...) 
+- [Annotated Bibliography](https://tyler-frazier.github.io/data150_example/exercise1.html) 
 
 
