@@ -2,7 +2,7 @@
 
 ## Informal Responses
 
-- [Blumenstock Response 2/2](https://tyler-frazier.github.io/data146_example/blumenstock.html)
+- [Blumenstock Response 2/2](https://tyler-frazier.github.io/data150_example/blumenstock.html)
 
 ## Formal Exercises
 
